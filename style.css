@@ -27,10 +27,9 @@ h1 {
     border-radius: 20px;
     width: 500px;
     height: 200px;
+    margin-top: 15px;
     text-align: center;
-    margin: left;
-    margin-left: 13%;
-    margin-top: 490px;
+    margin: auto;
     line-height: 200px;
     border: 1px solid #000000;
     font-size: 100px;
